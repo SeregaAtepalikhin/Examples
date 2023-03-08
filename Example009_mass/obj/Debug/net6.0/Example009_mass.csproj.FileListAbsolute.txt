@@ -1,0 +1,15 @@
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\bin\Debug\net6.0\Example009_mass.exe
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\bin\Debug\net6.0\Example009_mass.deps.json
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\bin\Debug\net6.0\Example009_mass.runtimeconfig.json
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\bin\Debug\net6.0\Example009_mass.dll
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\bin\Debug\net6.0\Example009_mass.pdb
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\obj\Debug\net6.0\Example009_mass.csproj.AssemblyReference.cache
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\obj\Debug\net6.0\Example009_mass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\obj\Debug\net6.0\Example009_mass.AssemblyInfoInputs.cache
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\obj\Debug\net6.0\Example009_mass.AssemblyInfo.cs
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\obj\Debug\net6.0\Example009_mass.csproj.CoreCompileInputs.cache
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\obj\Debug\net6.0\Example009_mass.dll
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\obj\Debug\net6.0\refint\Example009_mass.dll
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\obj\Debug\net6.0\Example009_mass.pdb
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\obj\Debug\net6.0\Example009_mass.genruntimeconfig.cache
+C:\Users\папа\Desktop\visual\Examples\Example009_mass\obj\Debug\net6.0\ref\Example009_mass.dll

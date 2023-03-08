@@ -1,0 +1,15 @@
+C:\Users\папа\Desktop\visual\Examples\Example010_find\bin\Debug\net6.0\Example010_find.exe
+C:\Users\папа\Desktop\visual\Examples\Example010_find\bin\Debug\net6.0\Example010_find.deps.json
+C:\Users\папа\Desktop\visual\Examples\Example010_find\bin\Debug\net6.0\Example010_find.runtimeconfig.json
+C:\Users\папа\Desktop\visual\Examples\Example010_find\bin\Debug\net6.0\Example010_find.dll
+C:\Users\папа\Desktop\visual\Examples\Example010_find\bin\Debug\net6.0\Example010_find.pdb
+C:\Users\папа\Desktop\visual\Examples\Example010_find\obj\Debug\net6.0\Example010_find.csproj.AssemblyReference.cache
+C:\Users\папа\Desktop\visual\Examples\Example010_find\obj\Debug\net6.0\Example010_find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\папа\Desktop\visual\Examples\Example010_find\obj\Debug\net6.0\Example010_find.AssemblyInfoInputs.cache
+C:\Users\папа\Desktop\visual\Examples\Example010_find\obj\Debug\net6.0\Example010_find.AssemblyInfo.cs
+C:\Users\папа\Desktop\visual\Examples\Example010_find\obj\Debug\net6.0\Example010_find.csproj.CoreCompileInputs.cache
+C:\Users\папа\Desktop\visual\Examples\Example010_find\obj\Debug\net6.0\Example010_find.dll
+C:\Users\папа\Desktop\visual\Examples\Example010_find\obj\Debug\net6.0\refint\Example010_find.dll
+C:\Users\папа\Desktop\visual\Examples\Example010_find\obj\Debug\net6.0\Example010_find.pdb
+C:\Users\папа\Desktop\visual\Examples\Example010_find\obj\Debug\net6.0\Example010_find.genruntimeconfig.cache
+C:\Users\папа\Desktop\visual\Examples\Example010_find\obj\Debug\net6.0\ref\Example010_find.dll
